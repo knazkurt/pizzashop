@@ -14,8 +14,6 @@ namespace PizzaShopExample
             var pizzaNames = new List<string>() { Util.MargharitaPizza, Util.ChickenPizza };
             bool val = false;
 
-            // Test commit.
-
             while(!val)
             {
                 Console.WriteLine("Welcome to PizzaShop. Please select your pizza. Here options : Margharita , Chicken");
