@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.exe
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.deps.json
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.runtimeconfig.json
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.dll
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.pdb
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.AssemblyInfo.cs
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.dll
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.pdb
+C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.genruntimeconfig.cache
