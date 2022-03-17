@@ -12,12 +12,12 @@ namespace PizzaShopExample.Products.Abstract
         public string[] ingredients;
 
 
-        public abstract void prepare();
-
-        public void bake()
+        public void prepare()
         {
-            Console.WriteLine("Bake");
+            Console.WriteLine("Prepare");
         }
+        public abstract void bake();
+
         public void cut()
         {
             Console.WriteLine("Cut");

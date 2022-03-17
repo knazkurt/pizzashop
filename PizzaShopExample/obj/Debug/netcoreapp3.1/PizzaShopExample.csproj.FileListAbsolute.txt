@@ -12,3 +12,17 @@ C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreap
 C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.dll
 C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.pdb
 C:\Users\user\source\repos\PizzaShopExample\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.genruntimeconfig.cache
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.exe
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.deps.json
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.runtimeconfig.json
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.runtimeconfig.dev.json
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.dll
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\bin\Debug\netcoreapp3.1\PizzaShopExample.pdb
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.AssemblyInfo.cs
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.dll
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.pdb
+C:\Users\user\Desktop\gitRepos\pizzashop\PizzaShopExample\obj\Debug\netcoreapp3.1\PizzaShopExample.genruntimeconfig.cache

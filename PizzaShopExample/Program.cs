@@ -18,7 +18,6 @@ namespace PizzaShopExample
             {
                 Console.WriteLine("Welcome to PizzaShop. Please select your pizza. Here options : Margharita , Chicken");
                 pizzaName = Console.ReadLine();
-
                 val = Validation(pizzaName, pizzaNames);
             }
             
@@ -31,7 +30,7 @@ namespace PizzaShopExample
         {
             if (!pizzaNames.Contains(pizzaName))
             {
-                Console.WriteLine("Please make sure you type it correctly");
+                Console.WriteLine("Please make sure you type it correctly"); 
                 return false;
             }
             else

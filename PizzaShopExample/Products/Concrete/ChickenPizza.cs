@@ -16,9 +16,9 @@ namespace PizzaShopExample.Products.Concrete
 
         }
 
-        public override void prepare()
+        public override void bake()
         {
-            Console.WriteLine("Preparing  " + pizzaName);
+            Console.WriteLine("Bake 20 min");
         }
     }
 }
