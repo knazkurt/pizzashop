@@ -6,9 +6,8 @@ namespace PizzaShopExample.Products.Concrete
 {
     public class ChickenPizza : Pizza
     {
-        public ChickenPizza()
-        {
-            pizzaName = Util.ChickenPizza;
+        public ChickenPizza():base(Util.ChickenPizza)
+        {            
             pizzaSouce = Util.TomatoSauce;
             doughType = Util.Medium;
             price = 10;
